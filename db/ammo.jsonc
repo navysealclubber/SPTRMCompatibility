@@ -1,0 +1,280 @@
+
+{
+    // 7.62x25mm
+    "683be28a35a774e8551bad00": { "proj": 1, "dmg": 41, "pen": 72, "hvy": 15, "lite": 66, "malf": 0.2, "acc": 0, "frag": 0 }, //APDS
+    "010000abff000000762a25ff": { "proj": 1, "dmg": 52, "pen": 65, "hvy": 21, "lite": 78, "malf": 0.2, "acc": 0, "frag": 0 }, //APST
+    "573603562459776430731618": { "proj": 1, "dmg": 51, "pen": 58, "hvy": 20, "lite": 75, "malf": 0.2, "acc": 0, "frag": 0 }, //PST
+    "5735fdcd2459776445391d61": { "proj": 1, "dmg": 50, "pen": 46, "hvy": 20, "lite": 75, "malf": 0.2, "acc": 0, "frag": 5 }, //AKBS
+    "573602322459776445391df1": { "proj": 1, "dmg": 85, "pen": 25, "hvy": 33, "lite": 100, "malf": 0.2, "acc": 0, "frag": 10 }, //LRNPC
+    "5736026a245977644601dc61": { "proj": 1, "dmg": 48, "pen": 39, "hvy": 15, "lite": 70, "malf": 0.2, "acc": 0, "frag": 5 }, //P
+    "573603c924597764442bd9cb": { "proj": 1, "dmg": 50, "pen": 38, "hvy": 13, "lite": 62, "malf": 0.2, "acc": 0, "frag": 5 }, //PT
+    "5735ff5c245977640e39ba7e": { "proj": 1, "dmg": 70, "pen": 26, "hvy": 25, "lite": 80, "malf": 0.3, "acc": 0, "frag": 10 }, //FMJ43
+    "573601b42459776410737435": { "proj": 1, "dmg": 63, "pen": 20, "hvy": 22, "lite": 75, "malf": 0.5, "acc": 0, "frag": 10 }, //LRN
+
+    // 9x18mm
+    "57371aab2459775a77142f22": { "proj": 1, "dmg": 52, "pen": 66, "hvy": 25, "lite": 82, "malf": 0, "acc": 0, "frag": 0 }, //PSTM
+    "573719df2459775a626ccbc2": { "proj": 1, "dmg": 48, "pen": 60, "hvy": 25, "lite": 80, "malf": 0.5, "acc": 0, "frag": 0 }, //PBM
+    "573720e02459776143012541": { "proj": 1, "dmg": 58, "pen": 48, "hvy": 32, "lite": 100, "malf": 1, "acc": 0, "frag": 0 }, //RG028
+    "57372140245977611f70ee91": { "proj": 1, "dmg": 85, "pen": 24, "hvy": 40, "lite": 100, "malf": 1, "acc": -10, "frag": 25 }, //SP7
+    "573718ba2459775a75491131": { "proj": 1, "dmg": 52, "pen": 42, "hvy": 20, "lite": 78, "malf": 0.2, "acc": 0, "frag": 0 }, //BZHT
+    "57371f2b24597761224311f1": { "proj": 1, "dmg": 62, "pen": 30, "hvy": 20, "lite": 78, "malf": 0.2, "acc": 0, "frag": 5 }, //PS PPO
+    "57371b192459775a9f58a5e0": { "proj": 1, "dmg": 72, "pen": 15, "hvy": 34, "lite": 100, "malf": 1, "acc": -10, "frag": 25 }, //PPE
+    "5737201124597760fc4431f1": { "proj": 1, "dmg": 48, "pen": 37, "hvy": 18, "lite": 70, "malf": 0.2, "acc": 0, "frag": 0 }, //PST
+    "573719762459775a626ccbc1": { "proj": 1, "dmg": 48, "pen": 26, "hvy": 18, "lite": 76, "malf": 0.2, "acc": 0, "frag": 5 }, //P
+    "5737207f24597760ff7b25f2": { "proj": 1, "dmg": 56, "pen": 14, "hvy": 30, "lite": 90, "malf": 1, "acc": -10, "frag": 25 }, //PSV
+    "57371f8d24597761006c6a81": { "proj": 1, "dmg": 44, "pen": 24, "hvy": 17, "lite": 75, "malf": 0.2, "acc": 0, "frag": 5 }, //PSO
+    "57371eb62459776125652ac1": { "proj": 1, "dmg": 45, "pen": 22, "hvy": 17, "lite": 74, "malf": 0.2, "acc": 0, "frag": 5 }, //PRS
+    "57371e4124597760ff7b25f1": { "proj": 1, "dmg": 40, "pen": 20, "hvy": 15, "lite": 70, "malf": 0.2, "acc": 0, "frag": 5 }, //PPT
+    "5737218f245977612125ba51": { "proj": 1, "dmg": 46, "pen": 12, "hvy": 22, "lite": 70, "malf": 1.5, "acc": -10, "frag": 25 }, //SP8
+
+    // 9x19mm
+    "5efb0da7a29a85116f6ea05f": { "proj": 1, "dmg": 50, "pen": 69, "hvy": 24, "lite": 89, "malf": 0.5, "acc": 0, "frag": 0 }, //PBP
+    "5c0d56a986f774449d5de529": { "proj": 1, "dmg": 90, "pen": 35, "hvy": 81, "lite": 100, "malf": 1.3, "acc": -10, "frag": 35 }, //RIP
+    "5c925fa22e221601da359b7b": { "proj": 1, "dmg": 52, "pen": 63, "hvy": 23, "lite": 87, "malf": 0.25, "acc": 0, "frag": 0 }, //AP
+    "56d59d3ad2720bdb418b4577": { "proj": 1, "dmg": 53, "pen": 55, "hvy": 22, "lite": 85, "malf": 0.3, "acc": 0, "frag": 0 }, //PST
+    "5efb0e16aeb21837e749c7ff": { "proj": 1, "dmg": 86, "pen": 19, "hvy": 36, "lite": 100, "malf": 1.3, "acc": -10, "frag": 20 }, //QUAKEMAKER
+    "5a3c16fe86f77452b62de32a": { "proj": 1, "dmg": 73, "pen": 37, "hvy": 22, "lite": 100, "malf": 0.2, "acc": 10, "frag": 0 }, //LUGER CCI
+    "64b7bbb74b75259c590fa897": { "proj": 1, "dmg": 55, "pen": 33, "hvy": 21, "lite": 83, "malf": 0, "acc": 0, "frag": 5 }, //M882
+    "5c3df7d588a4501f290594e5": { "proj": 1, "dmg": 55, "pen": 32, "hvy": 21, "lite": 66, "malf": 0.1, "acc": 0, "frag": 5 }, //GT
+    "58864a4f2459770fcc257101": { "proj": 1, "dmg": 50, "pen": 28, "hvy": 20, "lite": 80, "malf": 1, "acc": 0, "frag": 5 }, //PSO
+
+    // 9x21mm
+    "6576f4708ca9c4381d16cd9d": { "proj": 1, "dmg": 50, "pen": 67, "hvy": 25, "lite": 77, "malf": 1, "acc": 0, "frag": 0 }, //7N42
+    "5a26ac0ec4a28200741e1e18": { "proj": 1, "dmg": 55, "pen": 60, "hvy": 24, "lite": 79, "malf": 0.5, "acc": 0, "frag": 0 }, //BT
+    "5a269f97c4a282000b151807": { "proj": 1, "dmg": 53, "pen": 52, "hvy": 23, "lite": 86, "malf": 0.5, "acc": 0, "frag": 5 }, //PS
+    "5a26ac06c4a282000c5a90a8": { "proj": 1, "dmg": 79, "pen": 26, "hvy": 38, "lite": 100, "malf": 0.2, "acc": 0, "frag": 25 }, //PE
+    "6576f93989f0062e741ba952": { "proj": 1, "dmg": 52, "pen": 46, "hvy": 20, "lite": 80, "malf": 2, "acc": 0, "frag": 0 }, //7U4
+    "5a26abfac4a28232980eabff": { "proj": 1, "dmg": 58, "pen": 38, "hvy": 22, "lite": 85, "malf": 0.1, "acc": 0, "frag": 5 }, //P
+
+    // .357 Magnum
+    "62330c18744e5e31df12f516": { "proj": 1, "dmg": 135, "pen": 38, "hvy": 61, "lite": 100, "malf": 2, "acc": -10, "frag": 25 }, //JHP
+    "62330bfadc5883093563729b": { "proj": 1, "dmg": 123, "pen": 29, "hvy": 54, "lite": 100, "malf": 2.5, "acc": -10, "frag": 20 }, //HP
+    "62330b3ed4dc74626d570b95": { "proj": 1, "dmg": 95, "pen": 44, "hvy": 38, "lite": 100, "malf": 1.5, "acc": 0, "frag": 5 }, //FMJ
+    "62330c40bdd19b369e1e53d1": { "proj": 1, "dmg": 110, "pen": 31, "hvy": 51, "lite": 100, "malf": 2.5, "acc": 0, "frag": 10 }, //SP
+
+    // .40 S&W
+    "6851ab968c52422fbf785f59": { "proj": 1, "dmg": 75, "pen": 41, "hvy": 30, "lite": 95, "malf": 0.5, "acc": 0, "frag": 10 }, //+P
+    "6851a9c7efa6d303c471beb2": { "proj": 1, "dmg": 92, "pen": 21, "hvy": 42, "lite": 100, "malf": 0.5, "acc": -10, "frag": 25 }, //JHP
+    "6851add2caf8415c3bb32142": { "proj": 1, "dmg": 62, "pen": 34, "hvy": 24, "lite": 86, "malf": 0, "acc": 0, "frag": 5 }, //RT
+    "6851a7436b5a01959e6f54f9": { "proj": 1, "dmg": 62, "pen": 34, "hvy": 24, "lite": 86, "malf": 0, "acc": 0, "frag": 5 }, //FMJ
+
+    // .45 ACP
+    "5ea2a8e200685063ec28c05a": { "proj": 1, "dmg": 112, "pen": 38, "hvy": 89, "lite": 100, "malf": 2, "acc": -10, "frag": 35 }, //RIP
+    "5efb0cabfb3e451d70735af5": { "proj": 1, "dmg": 84, "pen": 58, "hvy": 34, "lite": 97, "malf": 0.8, "acc": 0, "frag": 0 }, //AP
+    "5efb0fc6aeb21837e749c801": { "proj": 1, "dmg": 105, "pen": 22, "hvy": 48, "lite": 100, "malf": 0.6, "acc": -10, "frag": 25 }, //HYDRASHOK
+    "5efb0d4f4bc50b58e81710f3": { "proj": 1, "dmg": 78, "pen": 34, "hvy": 30, "lite": 90, "malf": 0, "acc": 20, "frag": 5 }, //LASERMATCH
+    "5e81f423763d9f754677bf2e": { "proj": 1, "dmg": 78, "pen": 35, "hvy": 30, "lite": 90, "malf": 0, "acc": 0, "frag": 5 }, //FMJ
+
+    // .45 Colt
+    "65f3e7fa6d952338bde17f8a": { "proj": 1, "dmg": 120, "pen": 50, "hvy": 43, "lite": 100, "malf": 0, "acc": 0, "frag": 10 }, //+P
+
+    // .50 AE
+    "66a0d1e0ed648d72fe064d06": { "proj": 1, "dmg": 122, "pen": 74, "hvy": 47, "lite": 100, "malf": 2, "acc": 0, "frag": 5 }, //COPPER
+    "66a0d1c87d0d369e270bb9de": { "proj": 1, "dmg": 168, "pen": 51, "hvy": 77, "lite": 100, "malf": 4, "acc": -10, "frag": 25 }, //JHP
+    "668fe62ac62660a5d8071446": { "proj": 1, "dmg": 129, "pen": 62, "hvy": 44, "lite": 100, "malf": 2.5, "acc": 0, "frag": 5 }, //FMJ
+    "66a0d1f88486c69fce00fdf6": { "proj": 1, "dmg": 155, "pen": 45, "hvy": 70, "lite": 100, "malf": 5, "acc": 0, "frag": 10 }, //HAWKJSP
+
+    // 4.6x30mm
+    "5ba26835d4351e0035628ff5": { "proj": 1, "dmg": 40, "pen": 72, "hvy": 12, "lite": 44, "malf": 0, "acc": 0, "frag": 0 }, //AP SX
+    "5ba2678ad4351e44f824b344": { "proj": 1, "dmg": 43, "pen": 58, "hvy": 14, "lite": 50, "malf": 0, "acc": 0, "frag": 5 }, //FMJ SX
+    "5ba26812d4351e003201fef1": { "proj": 1, "dmg": 60, "pen": 43, "hvy": 20, "lite": 75, "malf": 0, "acc": -10, "frag": 25 }, //ACTION SX
+    "64b6979341772715af0f9c39": { "proj": 1, "dmg": 52, "pen": 38, "hvy": 17, "lite": 66, "malf": 0, "acc": -5, "frag": 10 }, //JSP SX
+    "5ba26844d4351e00334c9475": { "proj": 1, "dmg": 36, "pen": 49, "hvy": 10, "lite": 38, "malf": 0, "acc": 0, "frag": 5 }, //SUBSONIC SX
+
+    // 5.7x28mm
+    "5cc80f38e4a949001152b560": { "proj": 1, "dmg": 45, "pen": 69, "hvy": 20, "lite": 80, "malf": 0, "acc": 0, "frag": 0 }, //SS190
+    "5cc80f53e4a949000e1ea4f8": { "proj": 1, "dmg": 45, "pen": 57, "hvy": 20, "lite": 80, "malf": 0, "acc": 0, "frag": 0 }, //L191
+    "5cc86832d7f00c000d3a6e6c": { "proj": 1, "dmg": 102, "pen": 30, "hvy": 70, "lite": 100, "malf": 0, "acc": -10, "frag": 35 }, //R37F
+    "5cc86840d7f00c002412c56c": { "proj": 1, "dmg": 85, "pen": 32, "hvy": 40, "lite": 100, "malf": 0, "acc": -10, "frag": 35 }, //R37X
+    "5cc80f8fe4a949033b0224a2": { "proj": 1, "dmg": 56, "pen": 46, "hvy": 28, "lite": 85, "malf": 0, "acc": 0, "frag": 25 }, //SS197SR
+    "5cc80f79e4a949033c7343b2": { "proj": 1, "dmg": 67, "pen": 34, "hvy": 36, "lite": 92, "malf": 0, "acc": 0, "frag": 25 }, //SS198LF
+    "5cc80f67e4a949035e43bbba": { "proj": 1, "dmg": 39, "pen": 50, "hvy": 14, "lite": 80, "malf": 0, "acc": 0, "frag": 5 }, //SB193
+
+    // 5.45x39mm
+    "5c0d5e4486f77478390952fe": { "proj": 1, "dmg": 76, "pen": 85, "hvy": 50, "lite": 100, "malf": 0.3, "acc": 0, "frag": 0 }, //PPBS
+    "56dff026d2720bb8668b4567": { "proj": 1, "dmg": 75, "pen": 82, "hvy": 48, "lite": 100, "malf": 0.3, "acc": 0, "frag": 0 }, //BS
+    "61962b617c6c7b169525f168": { "proj": 1, "dmg": 75, "pen": 77, "hvy": 47, "lite": 100, "malf": 0.3, "acc": 0, "frag": 0 }, //7N40
+    "56dfef82d2720bbd668b4567": { "proj": 1, "dmg": 77, "pen": 74, "hvy": 53, "lite": 100, "malf": 0.3, "acc": 0, "frag": 0 }, //BP
+    "56dff2ced2720bb4668b4567": { "proj": 1, "dmg": 78, "pen": 68, "hvy": 52, "lite": 100, "malf": 0.3, "acc": 0, "frag": 0 }, //PP
+    "56dff061d2720bb5668b4567": { "proj": 1, "dmg": 78, "pen": 66, "hvy": 53, "lite": 100, "malf": 0.3, "acc": 0, "frag": 0 }, //BT
+    "56dff3afd2720bba668b4567": { "proj": 1, "dmg": 79, "pen": 60, "hvy": 52, "lite": 100, "malf": 0.3, "acc": 0, "frag": 5 }, //PS
+    "56dff216d2720bbd668b4568": { "proj": 1, "dmg": 112, "pen": 42, "hvy": 65, "lite": 100, "malf": 0.4, "acc": -5, "frag": 25 }, //HP
+    "56dff0bed2720bb0668b4567": { "proj": 1, "dmg": 80, "pen": 53, "hvy": 52, "lite": 100, "malf": 0.3, "acc": 0, "frag": 5 }, //FMJ
+    "56dff4a2d2720bbd668b456a": { "proj": 1, "dmg": 79, "pen": 53, "hvy": 50, "lite": 100, "malf": 0.3, "acc": 0, "frag": 5 }, //T
+    "56dff421d2720b5f5a8b4567": { "proj": 1, "dmg": 95, "pen": 38, "hvy": 60, "lite": 100, "malf": 0.3, "acc": 0, "frag": 10 }, //SP
+    "56dff338d2720bbd668b4569": { "proj": 1, "dmg": 80, "pen": 45, "hvy": 50, "lite": 100, "malf": 0.3, "acc": 0, "frag": 5 }, //PRS
+    "56dff4ecd2720b5f5a8b4568": { "proj": 1, "dmg": 58, "pen": 40, "hvy": 25, "lite": 75, "malf": 2, "acc": 0, "frag": 5 }, //US
+
+    // 5.56x45mm
+    "601949593ae8f707c4608daa": { "proj": 1, "dmg": 80, "pen": 88, "hvy": 52, "lite": 100, "malf": 0.5, "acc": 0, "frag": 0 }, //SSA AP
+    "59e690b686f7746c9f75e848": { "proj": 1, "dmg": 81, "pen": 82, "hvy": 50, "lite": 100, "malf": 0.2, "acc": 0, "frag": 0 }, //M995
+    "5c0d5ae286f7741e46554302": { "proj": 1, "dmg": 125, "pen": 53, "hvy": 75, "lite": 100, "malf": 0.2, "acc": 0, "frag": 30 }, //WARMAGE
+    "54527ac44bdc2d36668b4567": { "proj": 1, "dmg": 78, "pen": 74, "hvy": 48, "lite": 100, "malf": 0.5, "acc": 0, "frag": 0 }, //M855A1
+    "60194943740c5d77f6705eea": { "proj": 1, "dmg": 118, "pen": 55, "hvy": 69, "lite": 100, "malf": 0.3, "acc": 0, "frag": 15 }, //SOST
+    "54527a984bdc2d4e668b4567": { "proj": 1, "dmg": 85, "pen": 65, "hvy": 46, "lite": 100, "malf": 0.2, "acc": 0, "frag": 5 }, //M855
+    "59e6906286f7746c9f75e847": { "proj": 1, "dmg": 84, "pen": 63, "hvy": 48, "lite": 100, "malf": 0.2, "acc": 0, "frag": 5 }, //M856A1
+    "59e6927d86f77411da468256": { "proj": 1, "dmg": 116, "pen": 45, "hvy": 66, "lite": 100, "malf": 0.3, "acc": -5, "frag": 25 }, //HP
+    "59e6920f86f77411d82aa167": { "proj": 1, "dmg": 90, "pen": 58, "hvy": 50, "lite": 100, "malf": 0.2, "acc": 0, "frag": 5 }, //FMJ
+    "59e68f6f86f7746c9f75e846": { "proj": 1, "dmg": 85, "pen": 56, "hvy": 45, "lite": 100, "malf": 0.2, "acc": 0, "frag": 5 }, //M856
+    "59e6918f86f7746c9f75e849": { "proj": 1, "dmg": 84, "pen": 48, "hvy": 55, "lite": 100, "malf": 0.2, "acc": 0, "frag": 5 }, //RRLP
+
+    // 6.5 Creedmoor
+    "6833bae4baa31474639bea7d": { "proj": 1, "dmg": 120, "pen": 89, "hvy": 60, "lite": 100, "malf": 0.1, "acc": 5, "frag": 0 }, //NORMA AP
+    "6833ba38a1c9ff155c04e56f": { "proj": 1, "dmg": 151, "pen": 69, "hvy": 73, "lite": 100, "malf": 0.1, "acc": 5, "frag": 30 }, //TERMINAL ASC
+    "683246a74073e586d112af9f": { "proj": 1, "dmg": 122, "pen": 77, "hvy": 62, "lite": 100, "malf": 0.1, "acc": 25, "frag": 5 }, //NORMA MATCH
+    "6833baea86387d71b68abd6f": { "proj": 1, "dmg": 164, "pen": 56, "hvy": 75, "lite": 100, "malf": 0.1, "acc": 0, "frag": 35 }, //ELD-X
+    "68325a63730b17c69ee176eb": { "proj": 1, "dmg": 138, "pen": 67, "hvy": 65, "lite": 100, "malf": 0.1, "acc": 15, "frag": 15 }, //HPBT MATCH
+    "6834e6f28f5570aec23ca0c2": { "proj": 1, "dmg": 152, "pen": 49, "hvy": 72, "lite": 100, "malf": 0.1, "acc": 0, "frag": 25 }, //C-HP
+    "6833b8cb54aa764b2deefdfe": { "proj": 1, "dmg": 137, "pen": 54, "hvy": 68, "lite": 100, "malf": 0.1, "acc": 5, "frag": 10 }, //VERNARI SP
+
+    // 6.8x51mm
+    "6529243824cbe3c74a05e5c1": { "proj": 1, "dmg": 128, "pen": 75, "hvy": 62, "lite": 100, "malf": 0.1, "acc": 0, "frag": 5 }, //HYBRID
+    "683a1844ac7f29765fc135b2": { "proj": 1, "dmg": 160, "pen": 55, "hvy": 67, "lite": 100, "malf": 0.1, "acc": -5, "frag": 25 }, //HIPOWER
+    "6529302b8c26af6326029fb7": { "proj": 1, "dmg": 120, "pen": 65, "hvy": 55, "lite": 100, "malf": 0.1, "acc": 0, "frag": 5 }, //FMJ
+    "683d1b69d6f6778f205e9dfd": { "proj": 1, "dmg": 145, "pen": 52, "hvy": 59, "lite": 100, "malf": 0.1, "acc": 0, "frag": 10 }, //VERNARISP
+
+    // .300 Blackout
+    "64b8725c4b75259c590fa899": { "proj": 1, "dmg": 70, "pen": 78, "hvy": 20, "lite": 80, "malf": 0, "acc": 0, "frag": 0 }, //CBJ
+    "5fd20ff893a8961fc660a954": { "proj": 1, "dmg": 93, "pen": 69, "hvy": 40, "lite": 90, "malf": 0.3, "acc": 0, "frag": 0 }, //AP
+    "619636be6db0f2477964e710": { "proj": 1, "dmg": 96, "pen": 63, "hvy": 38, "lite": 85, "malf": 0.3, "acc": 0, "frag": 5 }, //M62
+    "6196364158ef8c428c287d9f": { "proj": 1, "dmg": 126, "pen": 48, "hvy": 56, "lite": 100, "malf": 0.3, "acc": -5, "frag": 25 }, //V-MAX
+    "5fbe3ffdf8b6a877a729ea82": { "proj": 1, "dmg": 90, "pen": 50, "hvy": 35, "lite": 82, "malf": 0.3, "acc": 0, "frag": 5 }, //BCP FMJ
+    "6196365d58ef8c428c287da1": { "proj": 1, "dmg": 100, "pen": 38, "hvy": 42, "lite": 100, "malf": 2, "acc": 0, "frag": 5 }, //WHISPER
+
+    // 7.62x39mm
+    "601aa3d2b2bcb34913271e6d": { "proj": 1, "dmg": 95, "pen": 86, "hvy": 50, "lite": 100, "malf": 0.5, "acc": 0, "frag": 0 }, //MAI AP
+    "59e0d99486f7744a32234762": { "proj": 1, "dmg": 97, "pen": 80, "hvy": 46, "lite": 100, "malf": 0.3, "acc": 0, "frag": 0 }, //BP
+    "64b7af434b75259c590fa893": { "proj": 1, "dmg": 100, "pen": 73, "hvy": 45, "lite": 100, "malf": 0.3, "acc": 0, "frag": 0 }, //PP
+    "5656d7c34bdc2d9d198b4587": { "proj": 1, "dmg": 102, "pen": 66, "hvy": 44, "lite": 100, "malf": 0.3, "acc": 0, "frag": 5 }, //PS
+    "59e4d3d286f774176a36250a": { "proj": 1, "dmg": 130, "pen": 43, "hvy": 64, "lite": 100, "malf": 0.5, "acc": -5, "frag": 25 }, //HP
+    "59e4cf5286f7741778269d8a": { "proj": 1, "dmg": 105, "pen": 59, "hvy": 50, "lite": 100, "malf": 0.3, "acc": 0, "frag": 5 }, //T-45M
+    "64b7af5a8532cf95ee0a0dbd": { "proj": 1, "dmg": 104, "pen": 55, "hvy": 52, "lite": 100, "malf": 0.3, "acc": 0, "frag": 5 }, //FMJ
+    "64b7af734b75259c590fa895": { "proj": 1, "dmg": 118, "pen": 42, "hvy": 56, "lite": 100, "malf": 0.5, "acc": 0, "frag": 10 }, //SP
+    "59e4d24686f7741776641ac7": { "proj": 1, "dmg": 80, "pen": 41, "hvy": 30, "lite": 80, "malf": 2, "acc": 0, "frag": 0 }, //US
+
+    // 7.62x51mm
+    "5efb0c1bd79ff02a1f5e68d9": { "proj": 1, "dmg": 124, "pen": 91, "hvy": 64, "lite": 100, "malf": 0.25, "acc": 0, "frag": 0 }, //M993
+    "6768c25aa7b238f14a08d3f6": { "proj": 1, "dmg": 126, "pen": 84, "hvy": 62, "lite": 100, "malf": 0.3, "acc": 0, "frag": 0 }, //M80A1
+    "5a6086ea4f39f99cd479502f": { "proj": 1, "dmg": 126, "pen": 79, "hvy": 61, "lite": 100, "malf": 0.3, "acc": 0, "frag": 0 }, //M61
+    "5a608bf24f39f98ffc77720e": { "proj": 1, "dmg": 128, "pen": 70, "hvy": 57, "lite": 100, "malf": 0, "acc": 0, "frag": 5 }, //M62
+    "58dd3ad986f77403051cba8f": { "proj": 1, "dmg": 128, "pen": 72, "hvy": 59, "lite": 100, "malf": 0, "acc": 0, "frag": 5 }, //M80
+    "5e023e88277cce2b522ff2b1": { "proj": 1, "dmg": 155, "pen": 51, "hvy": 79, "lite": 100, "malf": 0.5, "acc": -5, "frag": 25 }, //ULTRA NOSLER
+    "5e023e53d4353e3302577c4c": { "proj": 1, "dmg": 129, "pen": 63, "hvy": 60, "lite": 100, "malf": 0.5, "acc": 0, "frag": 5 }, //BCP FMJ
+    "5e023e6e34d52a55c3304f71": { "proj": 1, "dmg": 137, "pen": 47, "hvy": 66, "lite": 100, "malf": 1, "acc": 0, "frag": 10 }, //TCW SP
+
+    // 7.62x54mmR
+    "5e023d48186a883be655e551": { "proj": 1, "dmg": 130, "pen": 90, "hvy": 67, "lite": 100, "malf": 0.5, "acc": 0, "frag": 0 }, //BS
+    "560d61e84bdc2da74d8b4571": { "proj": 1, "dmg": 136, "pen": 85, "hvy": 67, "lite": 100, "malf": 0.5, "acc": 0, "frag": 0 }, //SNB
+    "5e023d34e8a400319a28ed44": { "proj": 1, "dmg": 134, "pen": 83, "hvy": 67, "lite": 100, "malf": 0.5, "acc": 0, "frag": 0 }, //BT
+    "59e77a2386f7742ee578960a": { "proj": 1, "dmg": 140, "pen": 74, "hvy": 67, "lite": 100, "malf": 0.5, "acc": 0, "frag": 5 }, //PS
+    "5887431f2459777e1612938f": { "proj": 1, "dmg": 135, "pen": 72, "hvy": 67, "lite": 100, "malf": 0.5, "acc": 0, "frag": 5 }, //LPS
+    "5e023cf8186a883be655e54f": { "proj": 1, "dmg": 135, "pen": 72, "hvy": 68, "lite": 100, "malf": 0.5, "acc": 0, "frag": 5 }, //T-46M
+    "64b8f7968532cf95ee0a0dbf": { "proj": 1, "dmg": 132, "pen": 66, "hvy": 70, "lite": 100, "malf": 0.5, "acc": 0, "frag": 5 }, //FMJ
+    "64b8f7c241772715af0f9c3d": { "proj": 1, "dmg": 194, "pen": 54, "hvy": 90, "lite": 100, "malf": 0.5, "acc": -5, "frag": 25 }, //HP BT
+    "64b8f7b5389d7ffd620ccba2": { "proj": 1, "dmg": 166, "pen": 50, "hvy": 80, "lite": 100, "malf": 0.5, "acc": 0, "frag": 10 }, //SP BT
+
+    // 7.92x57mm
+    "66d0c1319aba7b6bff460a37": { "proj": 1, "dmg": 138, "pen": 68, "hvy": 75, "lite": 100, "malf": 0.5, "acc": 0, "frag": 5 }, //RLA FMJ
+    "682e8c4bc098b59f14dde097": { "proj": 1, "dmg": 165, "pen": 54, "hvy": 85, "lite": 100, "malf": 0.5, "acc": 0, "frag": 10 }, //RLA SP
+    "6861847dfd5210a3e64677a3": { "proj": 1, "dmg": 127, "pen": 64, "hvy": 72, "lite": 100, "malf": 0.5, "acc": 0, "frag": 5 }, //FMJ SURPLUS
+
+    // .300 WIN MAG
+    "684e2de88bb7e9f52bfab35c": { "proj": 1, "dmg": 144, "pen": 90, "hvy": 70, "lite": 100, "malf": 0.5, "acc": 0, "frag": 0 }, //AP
+    "684e2ded3b64f7187cf14fae": { "proj": 1, "dmg": 169, "pen": 70, "hvy": 75, "lite": 100, "malf": 0.5, "acc": 0, "frag": 5 }, //FMJ
+    "6798b890fa41a7cc25a09157": { "proj": 1, "dmg": 169, "pen": 70, "hvy": 75, "lite": 100, "malf": 0.5, "acc": 0, "frag": 5 }, //TRACER RED
+    "684e2de4c90977ea0b7b83fe": { "proj": 1, "dmg": 226, "pen": 57, "hvy": 100, "lite": 100, "malf": 1, "acc": -5, "frag": 25 }, //HP
+
+    // .338 Lapua
+    "6859749fb61f50b920ae5a2a": { "proj": 1, "dmg": 235, "pen": 100, "hvy": 0, "lite": 0, "malf": 0.5, "acc": 0, "frag": 100 }, //RAUFOSS
+    "5fc382a9d724d907e2077dab": { "proj": 1, "dmg": 150, "pen": 94, "hvy": 75, "lite": 100, "malf": 0.5, "acc": 0, "frag": 0 }, //AP
+    "68561ab84857b945e0ce85e9": { "proj": 1, "dmg": 320, "pen": 65, "hvy": 100, "lite": 100, "malf": 2, "acc": -10, "frag": 35 }, //RIP
+    "5fc275cf85fd526b824a571a": { "proj": 1, "dmg": 188, "pen": 74, "hvy": 80, "lite": 100, "malf": 0.1, "acc": 0, "frag": 5 }, //FMJ
+    "5fc382b6d6fa9c00c571bbc3": { "proj": 1, "dmg": 255, "pen": 57, "hvy": 100, "lite": 100, "malf": 1, "acc": -5, "frag": 25 }, //TAC-X
+    "5fc382c1016cce60e8341b20": { "proj": 1, "dmg": 172, "pen": 66, "hvy": 80, "lite": 100, "malf": 1, "acc": 0, "frag": 5 }, //UCW
+
+    // .338 NORMA
+    "ea4cdb6fc3dd4f799eeef33e": { "proj": 1, "dmg": 268, "pen": 89, "hvy": 95, "lite": 100, "malf": 0, "acc": 30, "frag": 20 }, //SMK
+    "c556f40e464c7f09d4c757fc": { "proj": 1, "dmg": 240, "pen": 83, "hvy": 90, "lite": 100, "malf": 0, "acc": 20, "frag": 15 }, //NMK
+
+    // 8.6 BLACKOUT
+    "683d1ba7b5a2063de35a8c39": { "proj": 1, "dmg": 102, "pen": 72, "hvy": 36, "lite": 100, "malf": 0.5, "acc": 0, "frag": 0 }, //AP SUB
+    "683d1ec4f7164f4f77ea7a85": { "proj": 1, "dmg": 148, "pen": 44, "hvy": 65, "lite": 100, "malf": 1, "acc": -10, "frag": 35 }, //REX SUB
+    "683d1e142cee4317689e75e4": { "proj": 1, "dmg": 105, "pen": 58, "hvy": 39, "lite": 100, "malf": 0.3, "acc": 0, "frag": 5 }, //COPPER
+
+    // 9x39mm
+    "5c0d688c86f77413ae3407b2": { "proj": 1, "dmg": 100, "pen": 76, "hvy": 38, "lite": 100, "malf": 0.5, "acc": 0, "frag": 0 }, //BP
+    "61962d879bb3d20b0946d385": { "proj": 1, "dmg": 105, "pen": 65, "hvy": 38, "lite": 100, "malf": 0.5, "acc": 0, "frag": 0 }, //PAB-9
+    "57a0e5022459774d1673f889": { "proj": 1, "dmg": 110, "pen": 60, "hvy": 38, "lite": 100, "malf": 0.5, "acc": 0, "frag": 0 }, //SP6
+    "5c0d668f86f7747ccb7f13b2": { "proj": 1, "dmg": 108, "pen": 58, "hvy": 36, "lite": 100, "malf": 0.5, "acc": 0, "frag": 0 }, //SPP
+    "57a0dfb82459774d3078b56c": { "proj": 1, "dmg": 111, "pen": 53, "hvy": 42, "lite": 100, "malf": 0.3, "acc": 0, "frag": 5 }, //SP5
+    "6576f96220d53a5b8f3e395e": { "proj": 1, "dmg": 115, "pen": 47, "hvy": 40, "lite": 100, "malf": 0.3, "acc": 0, "frag": 5 }, //FMJ
+
+    // .366 TKM
+    "5f0596629e22f464da6bbdd9": { "proj": 1, "dmg": 79, "pen": 66, "hvy": 38, "lite": 100, "malf": 0.25, "acc": 0, "frag": 0 }, //AP-M
+    "59e655cb86f77411dc52a77b": { "proj": 1, "dmg": 62, "pen": 55, "hvy": 37, "lite": 100, "malf": 0.2, "acc": 25, "frag": 5 }, //EKO
+    "59e6542b86f77411dc52a77a": { "proj": 1, "dmg": 70, "pen": 49, "hvy": 35, "lite": 100, "malf": 0.5, "acc": 0, "frag": 5 }, //FMJ
+    "59e6658b86f77411d949b250": { "proj": 1, "dmg": 95, "pen": 42, "hvy": 41, "lite": 100, "malf": 1, "acc": -5, "frag": 10 }, //GEKSA
+
+    // 12.7x55mm
+    "5cadf6eeae921500134b2799": { "proj": 1, "dmg": 184, "pen": 73, "hvy": 75, "lite": 100, "malf": 0.25, "acc": 0, "frag": 0 }, //PS12B
+    "5cadf6e5ae921500113bb973": { "proj": 1, "dmg": 225, "pen": 50, "hvy": 100, "lite": 100, "malf": 0.1, "acc": 0, "frag": 25 }, //PS12A
+    "5cadf6ddae9215051e1c23b2": { "proj": 1, "dmg": 170, "pen": 56, "hvy": 68, "lite": 100, "malf": 3, "acc": 0, "frag": 5 }, //PS12
+
+    // .50 BMG
+    "687daf1f7353335188000006": { "proj": 1, "dmg": 270, "pen": 110, "hvy": 0, "lite": 0, "malf": 1, "acc": 0, "frag": 100 }, //MK211
+    "686e959752397d5b3485ad75": { "proj": 1, "dmg": 180, "pen": 116, "hvy": 66, "lite": 100, "malf": 2, "acc": -10, "frag": 0 }, //M903 SLAP
+    "687daf1f7353335188000004": { "proj": 1, "dmg": 255, "pen": 94, "hvy": 0, "lite": 0, "malf": 1, "acc": 0, "frag": 0 }, //M20
+    "687daf1f7353335188000003": { "proj": 1, "dmg": 255, "pen": 94, "hvy": 0, "lite": 0, "malf": 1, "acc": 0, "frag": 0 }, //M8
+    "687daf1f7353335188000002": { "proj": 1, "dmg": 210, "pen": 94, "hvy": 80, "lite": 100, "malf": 1, "acc": 0, "frag": 0 }, //M2
+    "687daf1f7353335188000001": { "proj": 1, "dmg": 300, "pen": 78, "hvy": 0, "lite": 0, "malf": 1, "acc": 0, "frag": 0 }, //M1
+    "686e90abd63bee9a05dcf5db": { "proj": 1, "dmg": 340, "pen": 61, "hvy": 100, "lite": 100, "malf": 2, "acc": -10, "frag": 35 }, //HP
+    "686e926498b323bfbbe1fc7c": { "proj": 1, "dmg": 230, "pen": 76, "hvy": 90, "lite": 100, "malf": 1, "acc": 0, "frag": 0 }, //M17
+    "687daf1f7353335188000005": { "proj": 1, "dmg": 230, "pen": 76, "hvy": 90, "lite": 100, "malf": 1, "acc": 0, "frag": 0 }, //M48
+    "686e93d861bcbeca0b805201": { "proj": 1, "dmg": 295, "pen": 63, "hvy": 100, "lite": 100, "malf": 1, "acc": -5, "frag": 25 }, //M33
+
+    // 12ga
+    "5d6e68a8a4b9360b6c0d54e2": { "proj": 1, "dmg": 187, "pen": 76, "hvy": 66, "lite": 100, "malf": 0, "acc": 20, "frag": 0 }, //AP-20
+    "5d6e68d1a4b93622fe60e845": { "proj": 1, "dmg": 273, "pen": 56, "hvy": 95, "lite": 100, "malf": 3, "acc": 50, "frag": 25 }, //SFORMANCE
+    "5d6e6911a4b9361bd5780d52": { "proj": 25, "dmg": 12, "pen": 52, "hvy": 8, "lite": 25, "malf": 2, "acc": -10, "frag": 0 }, //FLECHETTE
+    "5c0d591486f7744c505b416f": { "proj": 1, "dmg": 325, "pen": 38, "hvy": 100, "lite": 100, "malf": 2, "acc": 30, "frag": 35 }, //RIP
+    "5d6e6806a4b936088465b17e": { "proj": 12, "dmg": 33, "pen": 28, "hvy": 18, "lite": 69, "malf": 3, "acc": 20, "frag": 0 }, //8.5MM MAG
+    "5d6e68e6a4b9361c140bcfe0": { "proj": 1, "dmg": 169, "pen": 63, "hvy": 57, "lite": 100, "malf": 0, "acc": 45, "frag": 5 }, //FTX
+    "5d6e67fba4b9361bc73bc779": { "proj": 16, "dmg": 20, "pen": 32, "hvy": 15, "lite": 52, "malf": 0.2, "acc": 35, "frag": 0 }, //6.5MM EXP
+    "5d6e68b3a4b9361bca7e50b5": { "proj": 1, "dmg": 264, "pen": 46, "hvy": 88, "lite": 100, "malf": 3, "acc": 25, "frag": 10 }, //CSP
+    "64b8ee384b75259c590fa89b": { "proj": 51, "dmg": 6, "pen": 18, "hvy": 17, "lite": 50, "malf": 2, "acc": -30, "frag": 0, "spd": 200 }, //PIRANHA
+    "560d5e524bdc2d25448b4571": { "proj": 12, "dmg": 22, "pen": 30, "hvy": 16, "lite": 60, "malf": 0.2, "acc": 10, "frag": 0 }, //7MM
+    "5d6e6869a4b9361c140bcfde": { "proj": 1, "dmg": 270, "pen": 35, "hvy": 92, "lite": 100, "malf": 2, "acc": 20, "frag": 10 }, //GRIZZLY 40
+    "5d6e689ca4b9361bc8618956": { "proj": 1, "dmg": 165, "pen": 49, "hvy": 60, "lite": 100, "malf": 0.5, "acc": 5, "frag": 5 }, //POLEVA-6U
+    "5d6e6772a4b936088465b17c": { "proj": 20, "dmg": 12, "pen": 25, "hvy": 13, "lite": 46, "malf": 0.2, "acc": 0, "frag": 0 }, //5.25MM
+    "58820d1224597753c90aeb13": { "proj": 1, "dmg": 200, "pen": 40, "hvy": 78, "lite": 100, "malf": 0.2, "acc": 0, "frag": 10 }, //SLUG
+    "5d6e68c4a4b9361b93413f79": { "proj": 1, "dmg": 152, "pen": 50, "hvy": 49, "lite": 100, "malf": 5, "acc": -50, "frag": 5 }, //.50 BMG
+    "5d6e6891a4b9361bd473feea": { "proj": 1, "dmg": 189, "pen": 38, "hvy": 75, "lite": 100, "malf": 0.5, "acc": -25, "frag": 10 }, //POLEVA-3
+    "5d6e68dea4b9361bcc29e659": { "proj": 2, "dmg": 102, "pen": 36, "hvy": 41, "lite": 100, "malf": 0.2, "acc": -50, "frag": 5 }, //DUALSABOT
+
+    // 20ga
+    "660137d8481cc6907a0c5cda": { "proj": 1, "dmg": 149, "pen": 65, "hvy": 50, "lite": 100, "malf": 0.5, "acc": 30, "frag": 0 }, //TSS AP
+    "660137ef76c1b56143052be8": { "proj": 1, "dmg": 206, "pen": 47, "hvy": 85, "lite": 100, "malf": 0.5, "acc": 25, "frag": 20 }, //DGS
+    "6601380580e77cfd080e3418": { "proj": 20, "dmg": 11, "pen": 49, "hvy": 6, "lite": 22, "malf": 0.5, "acc": 25, "frag": 15 }, //FLECHETTE
+    "5d6e6a5fa4b93614ec501745": { "proj": 1, "dmg": 245, "pen": 18, "hvy": 100, "lite": 100, "malf": 2, "acc": 0, "frag": 35 }, //DEVASTATOR
+    "5d6e69c7a4b9360b6c0d54e4": { "proj": 9, "dmg": 24, "pen": 34, "hvy": 19, "lite": 68, "malf": 0.5, "acc": 15, "frag": 0 }, //7.3MM
+    "5d6e6a05a4b93618084f58d0": { "proj": 1, "dmg": 182, "pen": 44, "hvy": 75, "lite": 100, "malf": 2, "acc": 20, "frag": 10 }, //STAR
+    "5d6e69b9a4b9361bc8618958": { "proj": 10, "dmg": 19, "pen": 31, "hvy": 14, "lite": 50, "malf": 0.5, "acc": 30, "frag": 0 }, //6.2MM
+    "5d6e6a42a4b9364f07165f52": { "proj": 1, "dmg": 125, "pen": 41, "hvy": 48, "lite": 100, "malf": 0.5, "acc": 5, "frag": 5 }, //POLEVA-6U
+    "5a38ebd9c4a282000d722a5b": { "proj": 8, "dmg": 22, "pen": 30, "hvy": 18, "lite": 63, "malf": 0.5, "acc": 5, "frag": 0 }, //7.5MM
+    "5d6e6a53a4b9361bd473feec": { "proj": 1, "dmg": 157, "pen": 34, "hvy": 63, "lite": 100, "malf": 0.5, "acc": -25, "frag": 10 }, //POLEVA-3
+    "5d6e695fa4b936359b35d852": { "proj": 16, "dmg": 10, "pen": 22, "hvy": 14, "lite": 48, "malf": 5, "acc": 0, "frag": 0 }, //5.6MM
+
+    // 4ga
+    "5e85aa1a988a8701445df1f5": { "proj": 1, "dmg": 360, "pen": 70, "hvy": 100, "lite": 100, "malf": 5, "acc": 20, "frag": 5 }, //BARRIKADA
+    "5f647f31b6238e5dd066e196": { "proj": 20, "dmg": 30, "pen": 38, "hvy": 22, "lite": 100, "malf": 5, "acc": 0, "frag": 0 }, //SHRAP-25
+    "5e85a9a6eacf8c039e4e2ac1": { "proj": 12, "dmg": 50, "pen": 31, "hvy": 30, "lite": 100, "malf": 5, "acc": -50, "frag": 0 }, //SHRAP-10
+
+    // 40mm
+    "5ede47405b097655935d7d16": { "proj": 1, "dmg": 199, "pen": 1, "hvy": 0, "lite": 0, "malf": 1, "acc": 25, "frag": 0, "tcr": [true, "grey"] }, //M441
+    "5ede474b0c226a66f5402622": { "proj": 1, "dmg": 199, "pen": 1, "hvy": 0, "lite": 0, "malf": 1, "acc": 15, "frag": 0, "tcr": [true, "grey"] }, //M381
+    "5f0c892565703e5c461894e9": { "proj": 1, "dmg": 199, "pen": 1, "hvy": 0, "lite": 0, "malf": 1, "acc": 0, "frag": 0, "tcr": [true, "grey"] }, //M433
+    "5656eb674bdc2d35148b457c": { "proj": 1, "dmg": 199, "pen": 1, "hvy": 0, "lite": 0, "malf": 1, "acc": 0, "frag": 0, "tcr": [true, "grey"] }, //VOG-25
+    "5ede4739e0350d05467f73e8": { "proj": 1, "dmg": 199, "pen": 1, "hvy": 0, "lite": 0, "malf": 1, "acc": 15, "frag": 0, "tcr": [true, "grey"] }, //M406
+    "5ede475b549eed7c6d5c18fb": { "proj": 1, "dmg": 199, "pen": 1, "hvy": 0, "lite": 0, "malf": 1, "acc": 0, "frag": 0, "tcr": [true, "grey"] }, //M386
+    "5ede475339ee016e8c534742": { "proj": 20, "dmg": 36, "pen": 47, "hvy": 0, "lite": 0, "malf": 1, "acc": -50, "frag": 0 } //M576
+}

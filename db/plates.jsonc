@@ -1,0 +1,106 @@
+{   // Aramid Glass Ceramic UHMWPE ArmoredSteel Combined Aluminium Titan
+    //PLATES
+    "656efd66034e8e01c407f35c": { "class": 6, "material": "ArmoredSteel", "durability": 100, "bdr": 95, "spr": 60 }, //6B13BACK
+    "656f57dc27aed95beb08f628": { "class": 6, "material": "ArmoredSteel", "durability": 100, "bdr": 95, "spr": 60 }, //ZHUK3FRONT
+    "654a4dea7c17dec2f50cc86a": { "class": 6, "material": "ArmoredSteel", "durability": 100, "bdr": 95, "spr": 60 }, //6B12FRONT
+    "656f9d5900d62bcd2e02407c": { "class": 6, "material": "ArmoredSteel", "durability": 100, "bdr": 95, "spr": 60 }, //AR500LP
+    "656fac30c6baea13cd07e10c": { "class": 6, "material": "UHMWPE", "durability": 100, "bdr": 81, "spr": 100 }, //PRTCTRLIGHT
+    "657b22485f444d6dff0c6c2f": { "class": 7, "material": "Ceramic", "durability": 100, "bdr": 84, "spr": 90 }, //6B232BACK
+    "656f603f94b480b8a500c0d6": { "class": 7, "material": "Ceramic", "durability": 100, "bdr": 84, "spr": 90 }, //6B33FRONT
+    "656fb21fa0dce000a2020f7c": { "class": 7, "material": "Ceramic", "durability": 100, "bdr": 84, "spr": 90 }, //NSTLEVEL3
+    "656fa0fb498d1b7e3e071d9c": { "class": 7, "material": "ArmoredSteel", "durability": 100, "bdr": 96, "spr": 62 }, //GASTEEL
+    "656fa25e94b480b8a500c0e0": { "class": 7, "material": "Titan", "durability": 100, "bdr": 96, "spr": 81 }, //KATITAN
+    "656f9fa0498d1b7e3e071d98": { "class": 7, "material": "Combined", "durability": 100, "bdr": 87, "spr": 100 }, //SPRTNOMEGA
+    "654a4f8bc721968a4404ef18": { "class": 8, "material": "ArmoredSteel", "durability": 40, "bdr": 97, "spr": 64 }, //KORUNDVMSIDE
+    "6557458f83942d705f0c4962": { "class": 8, "material": "Combined", "durability": 40, "bdr": 93, "spr": 100 }, //SSAPI3SIDE
+    "657b2797c3dbcb01d60c35ea": { "class": 8, "material": "ArmoredSteel", "durability": 100, "bdr": 97, "spr": 64 }, //KORUNDVMBACK
+    "656f664200d62bcd2e024077": { "class": 8, "material": "ArmoredSteel", "durability": 100, "bdr": 97, "spr": 64 }, //KORUNDVMFRONT
+    "656fb0bd7c2d57afe200c0dc": { "class": 8, "material": "Ceramic", "durability": 100, "bdr": 86, "spr": 90 }, //SPRTNELAPHROS
+    "656fa53d94b480b8a500c0e4": { "class": 8, "material": "ArmoredSteel", "durability": 100, "bdr": 97, "spr": 64 }, //TCGUARDIAN
+    "656fad8c498d1b7e3e071da0": { "class": 8, "material": "UHMWPE", "durability": 100, "bdr": 83, "spr": 100 }, //MONOCLETEPE
+    "656fa8d700d62bcd2e024084": { "class": 8, "material": "Titan", "durability": 100, "bdr": 97, "spr": 82 }, //CULTLOCUST
+    "655746010177119f4a097ff7": { "class": 8, "material": "Combined", "durability": 100, "bdr": 93, "spr": 100 }, //SAPI3
+    "64afdb577bb3bfe8fe03fd1d": { "class": 9, "material": "Combined", "durability": 40, "bdr": 94, "spr": 100 }, //ESBIIVSIDE
+    "656efaf54772930db4031ff5": { "class": 9, "material": "Ceramic", "durability": 100, "bdr": 88, "spr": 90 }, //GRANIT4BACK
+    "656f611f94b480b8a500c0db": { "class": 9, "material": "Ceramic", "durability": 100, "bdr": 88, "spr": 90 }, //GRANIT4FRONT
+    "65573fa5655447403702a816": { "class": 9, "material": "Ceramic", "durability": 100, "bdr": 88, "spr": 90 }, //GRANITBR4
+    "656fa76500d62bcd2e024080": { "class": 9, "material": "ArmoredSteel", "durability": 100, "bdr": 98, "spr": 66 }, //KASTEEL
+    "656fae5f7c2d57afe200c0d7": { "class": 9, "material": "UHMWPE", "durability": 100, "bdr": 84, "spr": 100 }, //GAC3S15M
+    "6783aec223d48324c0b278f5": { "class": 9, "material": "Titan", "durability": 100, "bdr": 98, "spr": 83 }, //OSPREYMK4
+    "64afdcb83efdfea28601d041": { "class": 9, "material": "Combined", "durability": 100, "bdr": 94, "spr": 100 }, //ESAPIIV
+    "64afd81707e2cf40e903a316": { "class": 10, "material": "ArmoredSteel", "durability": 40, "bdr": 99, "spr": 68 }, //GRANITSIDE
+    "657b28d25f444d6dff0c6c77": { "class": 10, "material": "Ceramic", "durability": 100, "bdr": 90, "spr": 90 }, //KORUNDVMKBACK
+    "654a4a964b446df1ad03f192": { "class": 10, "material": "Ceramic", "durability": 100, "bdr": 90, "spr": 90 }, //GRANIT4RSBACK
+    "656f66b5c6baea13cd07e108": { "class": 10, "material": "Ceramic", "durability": 100, "bdr": 90, "spr": 90 }, //KORUNDVMKFRONT
+    "656f63c027aed95beb08f62c": { "class": 10, "material": "Ceramic", "durability": 100, "bdr": 90, "spr": 90 }, //GRANIT4RSFRONT
+    "64afc71497cf3a403c01ff38": { "class": 10, "material": "Ceramic", "durability": 100, "bdr": 90, "spr": 90 }, //GRANITBR5
+    "656fafe3498d1b7e3e071da4": { "class": 10, "material": "ArmoredSteel", "durability": 100, "bdr": 99, "spr": 68 }, //KITECOSC
+    "656faf0ca0dce000a2020f77": { "class": 10, "material": "UHMWPE", "durability": 100, "bdr": 85, "spr": 100 }, //GAC4SSS2
+    "656fa99800d62bcd2e024088": { "class": 10, "material": "Titan", "durability": 100, "bdr": 99, "spr": 84 }, //CULTTERMITE
+    "656fa61e94b480b8a500c0e8": { "class": 10, "material": "Combined", "durability": 100, "bdr": 90, "spr": 100 }, //NESCO4400
+    "6783ae9ee00fdb2053bf6848": { "class": 10, "material": "Combined", "durability": 100, "bdr": 95, "spr": 100 }, //XSAPI
+    //(Custom)
+    "58c0a16f420c97fe1c3d2e27": { "class": 6, "material": "Titan", "durability": 100, "bdr": 95, "spr": 80 }, //HESCOU211
+    "2aed3f0a15813b3d366fcdb9": { "class": 6, "material": "Combined", "durability": 100, "bdr": 86, "spr": 100 }, //TYRULTRALOWVIS
+    "b5223cb4b895fb6a438ac533": { "class": 7, "material": "UHMWPE", "durability": 100, "bdr": 82, "spr": 100 }, //HESCO3800C
+    "cf2ab73b0f0c00a0df3852e4": { "class": 9, "material": "Combined", "durability": 100, "bdr": 89, "spr": 100 }, //HESCO4800
+
+    //ACCESSORIES
+    "5a16b672fcdbcb001912fa83": { "class": 6, "durability": 18, "bdr": 95 }, //FASTVISOR
+    "5a16b7e1fcdbcb00165aa6c9": { "class": 7, "durability": 40, "bdr": 95 }, //FASTSHIELD
+    "5a16badafcdbcb001865f72d": { "class": 6, "durability": 20, "bdr": 95 }, //FASTEARS
+    "5ea058e01dbce517f324b3e2": { "class": 7, "durability": 35, "bdr": 95 }, //MANDALORIAN
+    "5a16ba61fcdbcb098008728a": { "class": 6, "durability": 25, "bdr": 95 }, //FASTMANDIBLE
+    "5c0e66e2d174af02a96252f4": { "class": 10, "durability": 25, "bdr": 95 }, //SLAAPTAN
+    "672e37d1ffec1409f4571dd7": { "class": 10, "durability": 25, "bdr": 95 }, //SLAAPBLACK
+    "5c1793902e221602b21d3de2": { "class": 7, "durability": 20, "bdr": 95 }, //AIRFRAMEEARS
+    "5c178a942e22164bef5ceca3": { "class": 7, "durability": 25, "bdr": 95 }, //AIRFRAMEMANDIBLE
+    "5f60bf4558eff926626a60f2": { "class": 7, "durability": 18, "bdr": 95 }, //CAIMANVISOR
+    "5f60c076f2bcbb675b00dac2": { "class": 8, "durability": 25, "bdr": 95 }, //CAIMANMANDIBLE
+    "5f60b85bbdb8e27dee3dc985": { "class": 9, "durability": 22, "bdr": 95 }, //CAIMANTOP
+    "5e00cfa786f77469dc6e5685": { "class": 8, "durability": 20, "bdr": 95 }, //EXFILEARS
+    "5e01f31d86f77465cf261343": { "class": 8, "durability": 20, "bdr": 95 }, //EXFILEARS
+    "5e00cdd986f7747473332240": { "class": 8, "durability": 40, "bdr": 95 }, //EXFILSHIELD
+    "5e01f37686f774773c6f6c15": { "class": 8, "durability": 40, "bdr": 95 }, //EXFILSHIELD
+    "6570a88c8f221f3b210353b7": { "class": 9, "durability": 30, "bdr": 95 }, //NEOSTEELMANDIBLE
+    "5ea18c84ecf1982c7712d9a2": { "class": 10, "durability": 25, "bdr": 95 }, //BASTIONTOP
+    "65719f9ef392ad76c50a2ec8": { "class": 7, "durability": 40, "bdr": 95 }, //TOR2SHIELD
+    "5ac4c50d5acfc40019262e87": { "class": 5, "durability": 30, "bdr": 95 }, //KOLPAKSHIELD
+    "5b46238386f7741a693bcf9c": { "class": 6, "durability": 35, "bdr": 95 }, //KIVERSHIELD
+    "5aa7e3abe5b5b000171d064d": { "class": 7, "durability": 40, "bdr": 95 }, //ZSH12MSHIELD
+    "5d6d3829a4b9361bc8618943": { "class": 8, "durability": 45, "bdr": 95 }, //LSHZ2DTMSHIELD
+    "5d6d3be5a4b9361bc73bc763": { "class": 9, "durability": 20, "bdr": 95 }, //LSHZ2DTMAVENTAIL
+    "5aa7e373e5b5b000137b76f0": { "class": 9, "durability": 28, "bdr": 95 }, //ALTYNSHIELD
+    "5ca2113f86f7740b2547e1d2": { "class": 9, "durability": 50, "bdr": 95 }, //VULKANSHIELD
+    "5c0919b50db834001b7ce3b9": { "class": 10, "durability": 30, "bdr": 95 }, //MASKASHIELD
+    "5c0e842486f77443a74d2976": { "class": 10, "durability": 30, "bdr": 95 }, //MASKASHIELDKILLA
+    "5f60c85b58eff926626a60f7": { "class": 10, "durability": 28, "bdr": 95 }, //RYSTSHIELD,
+
+    //EYEWEAR
+    "5b432be65acfc433000ed01f": { "class": 5, "durability": 30, "bdr": 95 }, //6B34
+    "59e770b986f7742cbd762754": { "class": 5, "durability": 30, "bdr": 95 }, //ANTIFRAG
+
+    //MASKS
+    "5b432b2f5acfc4771e1c6622": { "class": 4, "durability": 26, "bdr": 95, "colliders": ["HeadCommon", "ParietalHead", "Jaw"] }, //SHATTERED
+    "59e7715586f7742ee5789605": { "class": 4, "durability": 26, "bdr": 95, "colliders": ["HeadCommon", "Jaw"] }, //RESPIRATOR
+    "5b432c305acfc40019478128": { "class": 4, "durability": 30, "bdr": 95, "colliders": ["HeadCommon", "ParietalHead", "Ears", "Jaw", "BackHead"] }, //GP5
+    "672e2e7504b1f1d5b0e4209c": { "class": 5, "durability": 28, "bdr": 95, "colliders": ["HeadCommon", "ParietalHead", "Eyes", "Jaw"] }, //FM3
+    "6750f4f1fe66eee6650d3bd9": { "class": 6, "durability": 28, "bdr": 95, "colliders": ["HeadCommon", "ParietalHead", "Eyes", "Jaw"] }, //M50
+    "c544b1b34703aebab8ee0e5c": { "class": 6, "durability": 30, "bdr": 95, "colliders": ["HeadCommon", "ParietalHead", "Eyes", "Jaw"] }, //M53A1
+    "60363c0c92ec1c31037959f5": { "class": 7, "durability": 30, "bdr": 95, "colliders": ["HeadCommon", "ParietalHead", "Eyes", "Jaw"] }, //GP7
+    "672e2e756803734b60f5ac1e": { "class": 7, "durability": 32, "bdr": 95, "colliders": ["HeadCommon", "ParietalHead", "Eyes", "Jaw"] }, //GP9
+    "62a09e08de7ac81993580532": { "class": 7, "durability": 35, "bdr": 95, "colliders": ["HeadCommon", "ParietalHead", "Jaw"] }, //GLORIOUS
+    "6570aead4d84f81fd002a033": { "class": 8, "durability": 30, "bdr": 95, "colliders": ["HeadCommon", "Eyes", "Jaw"] }, //DEATHSHADOW
+    "672e2e75ec239cfca3bedf6d": { "class": 8, "durability": 30, "bdr": 95, "colliders": ["HeadCommon", "ParietalHead", "Ears", "Jaw", "BackHead", "NeckFront", "NeckBack"] }, //GHOST
+    "657089638db3adca1009f4ca": { "class": 9, "durability": 36, "bdr": 95, "colliders": ["HeadCommon", "ParietalHead", "Jaw"] }, //CQCM
+    "67fd8ec664e36ab00141b370": { "class": 9, "durability": 36, "bdr": 95, "colliders": ["HeadCommon", "ParietalHead", "Jaw"] }, //CQCM
+    "67fd8ec1e542b3e3b8c44711": { "class": 9, "durability": 36, "bdr": 95, "colliders": ["HeadCommon", "ParietalHead", "Jaw"] }, //CQCM
+    "67fd8ece241d10336042d4b9": { "class": 9, "durability": 36, "bdr": 95, "colliders": ["HeadCommon", "ParietalHead", "Jaw"] }, //CQCM
+    "67fd8ec861773f3ce6e7de2e": { "class": 9, "durability": 36, "bdr": 95, "colliders": ["HeadCommon", "ParietalHead", "Jaw"] }, //CQCM
+    "67fd89d05567aff486d5083a": { "class": 9, "durability": 36, "bdr": 95, "colliders": ["HeadCommon", "ParietalHead", "Jaw"] }, //CQCM
+    "67fd8ed16987d666dc9ac61c": { "class": 9, "durability": 36, "bdr": 95, "colliders": ["HeadCommon", "ParietalHead", "Jaw"] }, //CQCM
+    "67fd8ecc9183ad20bb523e7d": { "class": 9, "durability": 36, "bdr": 95, "colliders": ["HeadCommon", "ParietalHead", "Jaw"] }, //CQCM
+    "62963c18dbc8ab5f0d382d0b": { "class": 9, "durability": 30, "bdr": 95, "colliders": ["HeadCommon", "ParietalHead", "Ears", "Jaw", "BackHead", "NeckFront", "NeckBack"] }, //KNIGHT
+    "60a7ad2a2198820d95707a2e": { "class": 10, "durability": 40, "bdr": 100, "colliders": ["HeadCommon", "ParietalHead", "Ears", "Eyes", "Jaw"] }, //UBEY
+    "60a7ad3a0c5cb24b0134664a": { "class": 10, "durability": 40, "bdr": 100, "colliders": ["HeadCommon", "ParietalHead", "Ears", "Eyes", "Jaw"] } //GORILLA
+}

@@ -1,0 +1,108 @@
+{
+    //ARMOR
+    "59e7635f86f7742cbf2c1095": { "class": [4], "durability": 80 }, // Module 3M
+    "5648a7494bdc2d9d488b4583": { "class": [4], "durability": 100 }, // Paca
+    "62a09d79de7ac81993580530": { "class": [4], "durability": 100 }, // Paca Drd
+    "607f20859ee58b18e41ecd90": { "class": [4], "durability": 100 }, // Paca Rivals
+    "5df8a2ca86f7740bfe6df777": { "class": [5], "durability": 105 }, // 6B2
+    "5c0e5edb86f77461f55ed1f7": { "class": [4], "durability": 70 }, // Press
+    "5ab8e4ed86f7742d8e50c7fa": { "class": [4, 6], "durability": 95 }, // Untar
+    "64be79c487d1510151095552": { "class": [6], "durability": 135 }, // Kora Kulon
+    "64be79e2bf8412471d0d9bcc": { "class": [6], "durability": 135 }, // Kora Kulon
+    "5b44d22286f774172b0c9de8": { "class": [5], "durability": 70 }, // Kirasa
+    "64abd93857958b4249003418": { "class": [5], "durability": 75 }, // OTV
+    "5c0e655586f774045612eeb2": { "class": [5], "durability": 80 }, // Trooper
+    "609e8540d5c319764c2bc2e9": { "class": [5], "durability": 85 }, // Thor
+    "5ab8e79e86f7742d8b372e78": { "class": [5], "durability": 90 }, // Gzhel
+    "5e4abb5086f77406975c9342": { "class": [4], "durability": 80 }, // Slick
+    "6038b4b292ec1c3103795a0b": { "class": [4], "durability": 80 }, // Slick
+    "6038b4ca92ec1c3103795a0d": { "class": [4], "durability": 80 }, // Slick
+    "5c0e625a86f7742d77340f62": { "class": [6], "durability": 90 }, // Zhuk
+    "5c0e5bab86f77461f55ed1f3": { "class": [5], "durability": 85 }, // 6B23
+    "5c0e57ba86f7747fa141986d": { "class": [5], "durability": 85 }, // 6B23
+    "5c0e53c886f7747fa54205c7": { "class": [5], "durability": 95 }, // 6B13
+    "5c0e51be86f774598e797894": { "class": [5], "durability": 95 }, // 6B13
+    "5ca2151486f774244a3b8d30": { "class": [6], "durability": 90 }, // Redut M
+    "5e9dacf986f774054d6b89f4": { "class": [6], "durability": 100 }, // Defender
+    "5b44d0de86f774503d30cba8": { "class": [6], "durability": 125 }, // Gen4 Hmk
+    "5f5f41476bdad616ad46d631": { "class": [6], "durability": 110 }, // Korund
+    "5c0e541586f7747fa54205c9": { "class": [7], "durability": 110 }, // 6B13 M Killa
+    "5ca21c6986f77479963115a7": { "class": [6], "durability": 115 }, // Redut T5
+    "5b44cf1486f77431723e3d05": { "class": [6], "durability": 125 }, // Gen4 Assault
+    "5b44cd8b86f774503d30cba2": { "class": [6], "durability": 125 }, // Gen4 Full
+    "545cdb794bdc2d3a198b456a": { "class": [7], "durability": 110 }, // 6B43
+    "60a283193cb70855c43a381d": { "class": [7], "durability": 120 }, // Thor Ic
+
+    //ARMORED RIGS
+    "64a536392d2c4e6e970f4121": { "class": [4], "durability": 70 }, // Tv115
+    "61bc85697113f767765c7fe7": { "class": [4], "durability": 70 }, // Mmac
+    "639343fce101f4caa40a4ef3": { "class": [4], "durability": 70 }, // Banshee
+    "609e860ebd219504d8507525": { "class": [7], "durability": 85 }, // Avste
+    "5c0e3eb886f7742015526062": { "class": [4, 6], "durability": 100 }, // Rig 6b516
+    "5d5d646386f7742797261fd9": { "class": [3, 6], "durability": 110 }, // Rig 6b3tm
+    "5c0e446786f7742013381639": { "class": [4, 7], "durability": 100 }, // Rig 6b515
+    "61bcc89aef0f505f0c6cd0fc": { "class": [5], "durability": 75 }, // Strandhogg
+    "628dc750b910320f4c27a732": { "class": [5], "durability": 75 }, // Rbavaf
+    "66b6296d7994640992013b17": { "class": [5], "durability": 75 }, // Sppcv2
+    "5c0e746986f7741453628fe5": { "class": [5], "durability": 70 }, // Tv110
+    "544a5caa4bdc2d1a388b4568": { "class": [5], "durability": 80 }, // Avs
+    "5d5d87f786f77427997cfaef": { "class": [6], "durability": 75 }, // A18skanda
+    "628b9c7d45122232a872358f": { "class": [7], "durability": 90 }, // Cpcge
+    "5e4ac41886f77406a511c9a8": { "class": [6], "durability": 70 }, // Cpcmod1
+    "66b6295178bbc0200425f995": { "class": [6], "durability": 70 }, // Spsdmod2
+    "5ab8dced86f774646209ec87": { "class": [6], "durability": 80 }, // Anam2
+    "5c0e722886f7740458316a57": { "class": [6], "durability": 80 }, // Anam1
+    "5b44cad286f77402a54ae7e5": { "class": [6], "durability": 80 }, // Tactec
+    "628d0618d1ba6e4fa07ce5a4": { "class": [7], "durability": 85 }, // Bagariy
+    "60a3c70cde5f453f634816a3": { "class": [7], "durability": 85 }, // Ospreymk4aa
+    "60a3c68c37ea821725773ef5": { "class": [7], "durability": 95 }, // Ospreymk4ap
+
+    //HELMETS
+    "5ea05cf85ad9772e6624305d": { "class": [3], "durability": 26 }, // Tackek
+    "5b432d215acfc4771e1c6624": { "class": [4], "durability": 28 }, // LSHZ
+    "5e4bfc1586f774264f7582d3": { "class": [5], "durability": 30 }, // TC800
+    "5a154d5cfcdbcb001a3b00da": { "class": [6], "durability": 32 }, // Fastmt
+    "5ac8d6885acfc400180ae7b0": { "class": [6], "durability": 32 }, // Fastmt
+    "5c17a7ed2e2216152142459c": { "class": [7], "durability": 32 }, // Airframe
+    "61bca7cda0eae612383adf57": { "class": [8], "durability": 30 }, // Hjelm
+    "5f60b34a41e30a4ab12a6947": { "class": [7], "durability": 32 }, // Caiman
+    "5e00c1ad86f774747333222c": { "class": [9], "durability": 34 }, // Exfilblack
+    "5e01ef6886f77445f643baa4": { "class": [9], "durability": 34 }, // Exfiltan
+    "5df8a58286f77412631087ed": { "class": [4], "durability": 28 }, // Tank
+    "5c06c6a80db834001b735491": { "class": [4], "durability": 28 }, // Pemis
+    "5aa7d03ae5b5b00016327db5": { "class": [5], "durability": 30 }, // Untar
+    "5a7c4850e899ef00150be885": { "class": [5], "durability": 30 }, // 6B47
+    "5aa7cfc0e5b5b00015693143": { "class": [5], "durability": 30 }, // 6B47
+    "6745895717824b1ec20570a6": { "class": [5], "durability": 30 }, // 6B47
+    "5aa7d193e5b5b000171d063f": { "class": [6], "durability": 32 }, // Diaper
+    "5d5e7d28a4b936645d161203": { "class": [5], "durability": 32 }, // TC2001
+    "5b40e3f35acfc40016388218": { "class": [6], "durability": 34 }, // Achhc
+    "5b40e4035acfc47a87740943": { "class": [6], "durability": 34 }, // Achhc
+    "5b40e1525acfc4771e1c6611": { "class": [6], "durability": 34 }, // Ulach
+    "5b40e2bc5acfc40016388216": { "class": [6], "durability": 34 }, // Ulach
+    "5d5e9c74a4b9364855191c40": { "class": [6], "durability": 34 }, // TC2002
+    "67597ceea35600b4c10cea86": { "class": [7], "durability": 36 }, // Mtekstrike
+    "67597d241d5a44f2f605df06": { "class": [7], "durability": 36 }, // Mtekstrike
+    "675956062f6ddfe8ff0e2806": { "class": [7], "durability": 36 }, // Mtekflux
+    "6759655674aa5e0825040d62": { "class": [7], "durability": 36 }, // Mtekflux
+    "5ea17ca01412a1425304d1c0": { "class": [7], "durability": 36 }, // Bastion
+    "65709d2d21b9f815e208ff95": { "class": [8], "durability": 38 }, // Neosteel
+    "66b5f661af44ca0014063c05": { "class": [9], "durability": 38 }, // Bacbastion
+    "66b5f65ca7f72d197e70bcd6": { "class": [9], "durability": 38 }, // Bacbastion
+    "66b5f666cad6f002ab7214c2": { "class": [9], "durability": 38 }, // Bacbastion
+    "65719f0775149d62ce0a670b": { "class": [8], "durability": 40 }, // Tor2
+    "5c08f87c0db8340019124324": { "class": [3], "durability": 30 }, // Firefighter
+    "5c0d2727d174af02a012cf58": { "class": [4], "durability": 30 }, // Djeta
+    "59e7711e86f7746cae05fbe1": { "class": [5], "durability": 30 }, // Kolpak
+    "5645bc214bdc2d363b8b4571": { "class": [6], "durability": 32 }, // Kiver
+    "5aa7e454e5b5b0214e506fa2": { "class": [7], "durability": 34 }, // ZSH12M
+    "5aa7e4a4e5b5b000137b76f2": { "class": [7], "durability": 34 }, // ZSH12M
+    "66bdc28a0b603c26902b2011": { "class": [7], "durability": 40 }, // Ronin
+    "5b4329f05acfc47a86086aa1": { "class": [8], "durability": 40 }, // Ronin Resp
+    "5d6d3716a4b9361bc8618872": { "class": [8], "durability": 36 }, // LSHZ2DTM
+    "5aa7e276e5b5b000171d0647": { "class": [9], "durability": 40 }, // Altyn
+    "5ca20ee186f774799474abc2": { "class": [9], "durability": 42 }, // Vulkan
+    "5c091a4e0db834001d5addc8": { "class": [10], "durability": 40 }, // Maska
+    "5c0e874186f7745dc7616606": { "class": [10], "durability": 40 }, // Maska Killa
+    "5f60c74e3b85f6263c145586": { "class": [10], "durability": 40 } // Ryst
+}
